@@ -44,6 +44,6 @@ This is a basic To-Do List application built with **React** and styled using **T
 
 ## Screenshot
 
-*You can add a screenshot here by placing an image named `screenshot.png` in the root directory and updating this section.*
+![Screenshot](screenshot.png)
 
 ---
